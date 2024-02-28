@@ -1,0 +1,2 @@
+[target.i686-linux-android]
+linker = "C:\\Users\\moran\\AppData\\Local\\Android\\Sdk\\ndk\\26.2.11394342\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\i686-linux-android25-clang.cmd"
